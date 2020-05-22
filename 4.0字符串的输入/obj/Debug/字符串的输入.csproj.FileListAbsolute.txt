@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\字符串的输入\bin\Debug\字符串的输入.exe.config
+C:\Users\KarFive\Desktop\C#\字符串的输入\bin\Debug\字符串的输入.exe
+C:\Users\KarFive\Desktop\C#\字符串的输入\bin\Debug\字符串的输入.pdb
+C:\Users\KarFive\Desktop\C#\字符串的输入\obj\Debug\字符串的输入.exe
+C:\Users\KarFive\Desktop\C#\字符串的输入\obj\Debug\字符串的输入.pdb

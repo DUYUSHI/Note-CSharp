@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\一维数组的使用\bin\Debug\一维数组的使用.exe.config
+C:\Users\KarFive\Desktop\C#\一维数组的使用\bin\Debug\一维数组的使用.exe
+C:\Users\KarFive\Desktop\C#\一维数组的使用\bin\Debug\一维数组的使用.pdb
+C:\Users\KarFive\Desktop\C#\一维数组的使用\obj\Debug\一维数组的使用.exe
+C:\Users\KarFive\Desktop\C#\一维数组的使用\obj\Debug\一维数组的使用.pdb

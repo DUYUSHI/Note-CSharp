@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\7.6构造函数和析构函数01\bin\Debug\7.6构造函数和析构函数01.exe.config
+C:\Users\KarFive\Desktop\C#\7.6构造函数和析构函数01\obj\Debug\7.6构造函数和析构函数01.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\7.6构造函数和析构函数01\bin\Debug\7.6构造函数和析构函数01.exe
+C:\Users\KarFive\Desktop\C#\7.6构造函数和析构函数01\bin\Debug\7.6构造函数和析构函数01.pdb
+C:\Users\KarFive\Desktop\C#\7.6构造函数和析构函数01\obj\Debug\7.6构造函数和析构函数01.exe
+C:\Users\KarFive\Desktop\C#\7.6构造函数和析构函数01\obj\Debug\7.6构造函数和析构函数01.pdb

@@ -1,0 +1,14 @@
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\bin\Debug\第一个桌面应用程序.exe.config
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\bin\Debug\第一个桌面应用程序.exe
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\bin\Debug\第一个桌面应用程序.pdb
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\MainWindow.g.cs
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\App.g.cs
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序_MarkupCompile.cache
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序_MarkupCompile.lref
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\MainWindow.baml
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序.g.resources
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序.Properties.Resources.resources
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序.csproj.GenerateResource.Cache
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序.exe
+C:\Users\KarFive\Desktop\C#\第一个桌面应用程序\obj\Debug\第一个桌面应用程序.pdb

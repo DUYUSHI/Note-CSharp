@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\7.4属性的使用01\bin\Debug\7.4属性的使用01.exe.config
+C:\Users\KarFive\Desktop\C#\7.4属性的使用01\obj\Debug\7.4属性的使用01.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\7.4属性的使用01\bin\Debug\7.4属性的使用01.exe
+C:\Users\KarFive\Desktop\C#\7.4属性的使用01\bin\Debug\7.4属性的使用01.pdb
+C:\Users\KarFive\Desktop\C#\7.4属性的使用01\obj\Debug\7.4属性的使用01.exe
+C:\Users\KarFive\Desktop\C#\7.4属性的使用01\obj\Debug\7.4属性的使用01.pdb

@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\7.2枚举\bin\Debug\7.2枚举.exe.config
+C:\Users\KarFive\Desktop\C#\7.2枚举\bin\Debug\7.2枚举.exe
+C:\Users\KarFive\Desktop\C#\7.2枚举\bin\Debug\7.2枚举.pdb
+C:\Users\KarFive\Desktop\C#\7.2枚举\obj\Debug\7.2枚举.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\7.2枚举\obj\Debug\7.2枚举.exe
+C:\Users\KarFive\Desktop\C#\7.2枚举\obj\Debug\7.2枚举.pdb

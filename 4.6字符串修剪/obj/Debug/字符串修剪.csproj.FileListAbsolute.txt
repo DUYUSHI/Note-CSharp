@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\字符串修剪\bin\Debug\字符串修剪.exe.config
+C:\Users\KarFive\Desktop\C#\字符串修剪\bin\Debug\字符串修剪.exe
+C:\Users\KarFive\Desktop\C#\字符串修剪\bin\Debug\字符串修剪.pdb
+C:\Users\KarFive\Desktop\C#\字符串修剪\obj\Debug\字符串修剪.exe
+C:\Users\KarFive\Desktop\C#\字符串修剪\obj\Debug\字符串修剪.pdb

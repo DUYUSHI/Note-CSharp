@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\5.10ArrayList类中元素的删除\bin\Debug\5.10ArrayList类中元素的删除.exe.config
+C:\Users\KarFive\Desktop\C#\5.10ArrayList类中元素的删除\bin\Debug\5.10ArrayList类中元素的删除.exe
+C:\Users\KarFive\Desktop\C#\5.10ArrayList类中元素的删除\bin\Debug\5.10ArrayList类中元素的删除.pdb
+C:\Users\KarFive\Desktop\C#\5.10ArrayList类中元素的删除\obj\Debug\5.10ArrayList类中元素的删除.exe
+C:\Users\KarFive\Desktop\C#\5.10ArrayList类中元素的删除\obj\Debug\5.10ArrayList类中元素的删除.pdb

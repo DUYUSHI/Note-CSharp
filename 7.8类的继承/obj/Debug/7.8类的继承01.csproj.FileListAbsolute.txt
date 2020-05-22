@@ -1,0 +1,12 @@
+C:\Users\KarFive\Desktop\C#\7.8类的继承01\bin\Debug\7.8类的继承01.exe.config
+C:\Users\KarFive\Desktop\C#\7.8类的继承01\obj\Debug\7.8类的继承01.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\7.8类的继承01\bin\Debug\7.8类的继承01.exe
+C:\Users\KarFive\Desktop\C#\7.8类的继承01\bin\Debug\7.8类的继承01.pdb
+C:\Users\KarFive\Desktop\C#\7.8类的继承01\obj\Debug\7.8类的继承01.exe
+C:\Users\KarFive\Desktop\C#\7.8类的继承01\obj\Debug\7.8类的继承01.pdb
+C:\Users\KarFive\Desktop\C#\7.8类的继承\bin\Debug\7.8类的继承01.exe.config
+C:\Users\KarFive\Desktop\C#\7.8类的继承\obj\Debug\7.8类的继承01.exe
+C:\Users\KarFive\Desktop\C#\7.8类的继承\obj\Debug\7.8类的继承01.pdb
+C:\Users\KarFive\Desktop\C#\7.8类的继承\bin\Debug\7.8类的继承01.exe
+C:\Users\KarFive\Desktop\C#\7.8类的继承\bin\Debug\7.8类的继承01.pdb
+C:\Users\KarFive\Desktop\C#\7.8类的继承\obj\Debug\7.8类的继承01.csprojResolveAssemblyReference.cache

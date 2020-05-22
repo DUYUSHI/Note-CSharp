@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\7.6查找数组元素\bin\Debug\7.6查找数组元素.exe.config
+C:\Users\KarFive\Desktop\C#\7.6查找数组元素\bin\Debug\7.6查找数组元素.exe
+C:\Users\KarFive\Desktop\C#\7.6查找数组元素\bin\Debug\7.6查找数组元素.pdb
+C:\Users\KarFive\Desktop\C#\7.6查找数组元素\obj\Debug\7.6查找数组元素.exe
+C:\Users\KarFive\Desktop\C#\7.6查找数组元素\obj\Debug\7.6查找数组元素.pdb

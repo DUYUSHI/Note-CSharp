@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\7.8数组合并和拆分\bin\Debug\7.8数组合并和拆分.exe.config
+C:\Users\KarFive\Desktop\C#\7.8数组合并和拆分\bin\Debug\7.8数组合并和拆分.exe
+C:\Users\KarFive\Desktop\C#\7.8数组合并和拆分\bin\Debug\7.8数组合并和拆分.pdb
+C:\Users\KarFive\Desktop\C#\7.8数组合并和拆分\obj\Debug\7.8数组合并和拆分.exe
+C:\Users\KarFive\Desktop\C#\7.8数组合并和拆分\obj\Debug\7.8数组合并和拆分.pdb

@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\字符串替换\bin\Debug\字符串替换.exe.config
+C:\Users\KarFive\Desktop\C#\字符串替换\bin\Debug\字符串替换.exe
+C:\Users\KarFive\Desktop\C#\字符串替换\bin\Debug\字符串替换.pdb
+C:\Users\KarFive\Desktop\C#\字符串替换\obj\Debug\字符串替换.exe
+C:\Users\KarFive\Desktop\C#\字符串替换\obj\Debug\字符串替换.pdb

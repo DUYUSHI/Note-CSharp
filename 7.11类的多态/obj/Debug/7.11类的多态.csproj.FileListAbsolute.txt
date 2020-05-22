@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\7.11类的多态\bin\Debug\7.11类的多态.exe.config
+C:\Users\KarFive\Desktop\C#\7.11类的多态\bin\Debug\7.11类的多态.exe
+C:\Users\KarFive\Desktop\C#\7.11类的多态\bin\Debug\7.11类的多态.pdb
+C:\Users\KarFive\Desktop\C#\7.11类的多态\obj\Debug\7.11类的多态.exe
+C:\Users\KarFive\Desktop\C#\7.11类的多态\obj\Debug\7.11类的多态.pdb
+C:\Users\KarFive\Desktop\C#\7.11类的多态\obj\Debug\7.11类的多态.csprojResolveAssemblyReference.cache

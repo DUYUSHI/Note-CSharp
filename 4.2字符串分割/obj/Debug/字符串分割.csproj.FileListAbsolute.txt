@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\字符串分割\bin\Debug\字符串分割.exe.config
+C:\Users\KarFive\Desktop\C#\字符串分割\bin\Debug\字符串分割.exe
+C:\Users\KarFive\Desktop\C#\字符串分割\bin\Debug\字符串分割.pdb
+C:\Users\KarFive\Desktop\C#\字符串分割\obj\Debug\字符串分割.exe
+C:\Users\KarFive\Desktop\C#\字符串分割\obj\Debug\字符串分割.pdb
+C:\Users\KarFive\Desktop\C#\字符串分割\obj\Debug\字符串分割.csprojResolveAssemblyReference.cache

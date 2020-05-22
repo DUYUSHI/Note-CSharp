@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\字符串的查找\bin\Debug\字符串的查找.exe.config
+C:\Users\KarFive\Desktop\C#\字符串的查找\bin\Debug\字符串的查找.exe
+C:\Users\KarFive\Desktop\C#\字符串的查找\bin\Debug\字符串的查找.pdb
+C:\Users\KarFive\Desktop\C#\字符串的查找\obj\Debug\字符串的查找.exe
+C:\Users\KarFive\Desktop\C#\字符串的查找\obj\Debug\字符串的查找.pdb

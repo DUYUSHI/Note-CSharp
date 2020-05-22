@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\数据类型转换01\bin\Debug\数据类型转换01.exe.config
+C:\Users\KarFive\Desktop\C#\数据类型转换01\bin\Debug\数据类型转换01.exe
+C:\Users\KarFive\Desktop\C#\数据类型转换01\bin\Debug\数据类型转换01.pdb
+C:\Users\KarFive\Desktop\C#\数据类型转换01\obj\Debug\数据类型转换01.exe
+C:\Users\KarFive\Desktop\C#\数据类型转换01\obj\Debug\数据类型转换01.pdb

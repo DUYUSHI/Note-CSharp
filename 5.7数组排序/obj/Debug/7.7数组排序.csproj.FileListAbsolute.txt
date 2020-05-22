@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\7.7数组排序\bin\Debug\7.7数组排序.exe.config
+C:\Users\KarFive\Desktop\C#\7.7数组排序\bin\Debug\7.7数组排序.exe
+C:\Users\KarFive\Desktop\C#\7.7数组排序\bin\Debug\7.7数组排序.pdb
+C:\Users\KarFive\Desktop\C#\7.7数组排序\obj\Debug\7.7数组排序.exe
+C:\Users\KarFive\Desktop\C#\7.7数组排序\obj\Debug\7.7数组排序.pdb

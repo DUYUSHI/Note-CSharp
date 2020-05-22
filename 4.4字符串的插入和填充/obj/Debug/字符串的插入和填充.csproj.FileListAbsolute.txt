@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\字符串的插入和填充\bin\Debug\字符串的插入和填充.exe.config
+C:\Users\KarFive\Desktop\C#\字符串的插入和填充\bin\Debug\字符串的插入和填充.exe
+C:\Users\KarFive\Desktop\C#\字符串的插入和填充\bin\Debug\字符串的插入和填充.pdb
+C:\Users\KarFive\Desktop\C#\字符串的插入和填充\obj\Debug\字符串的插入和填充.exe
+C:\Users\KarFive\Desktop\C#\字符串的插入和填充\obj\Debug\字符串的插入和填充.pdb
+C:\Users\KarFive\Desktop\C#\字符串的插入和填充\obj\Debug\字符串的插入和填充.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\6.1方法的声明和调用\bin\Debug\6.1方法的声明和调用.exe.config
+C:\Users\KarFive\Desktop\C#\6.1方法的声明和调用\bin\Debug\6.1方法的声明和调用.exe
+C:\Users\KarFive\Desktop\C#\6.1方法的声明和调用\bin\Debug\6.1方法的声明和调用.pdb
+C:\Users\KarFive\Desktop\C#\6.1方法的声明和调用\obj\Debug\6.1方法的声明和调用.exe
+C:\Users\KarFive\Desktop\C#\6.1方法的声明和调用\obj\Debug\6.1方法的声明和调用.pdb
+C:\Users\KarFive\Desktop\C#\6.1方法的声明和调用\obj\Debug\6.1方法的声明和调用.csprojResolveAssemblyReference.cache

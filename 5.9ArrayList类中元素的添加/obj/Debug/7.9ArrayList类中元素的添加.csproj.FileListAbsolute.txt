@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\7.9ArrayList类中元素的添加\bin\Debug\7.9ArrayList类中元素的添加.exe.config
+C:\Users\KarFive\Desktop\C#\7.9ArrayList类中元素的添加\obj\Debug\7.9ArrayList类中元素的添加.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\7.9ArrayList类中元素的添加\bin\Debug\7.9ArrayList类中元素的添加.exe
+C:\Users\KarFive\Desktop\C#\7.9ArrayList类中元素的添加\bin\Debug\7.9ArrayList类中元素的添加.pdb
+C:\Users\KarFive\Desktop\C#\7.9ArrayList类中元素的添加\obj\Debug\7.9ArrayList类中元素的添加.exe
+C:\Users\KarFive\Desktop\C#\7.9ArrayList类中元素的添加\obj\Debug\7.9ArrayList类中元素的添加.pdb

@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\C sharp命名空间\bin\Debug\C sharp命名空间.exe.config
+C:\Users\KarFive\Desktop\C#\C sharp命名空间\bin\Debug\C sharp命名空间.exe
+C:\Users\KarFive\Desktop\C#\C sharp命名空间\bin\Debug\C sharp命名空间.pdb
+C:\Users\KarFive\Desktop\C#\C sharp命名空间\obj\Debug\C sharp命名空间.exe
+C:\Users\KarFive\Desktop\C#\C sharp命名空间\obj\Debug\C sharp命名空间.pdb

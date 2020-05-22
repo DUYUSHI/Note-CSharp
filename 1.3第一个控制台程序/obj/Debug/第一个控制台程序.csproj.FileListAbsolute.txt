@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\第一个控制台程序\bin\Debug\第一个控制台程序.exe.config
+C:\Users\KarFive\Desktop\C#\第一个控制台程序\obj\Debug\第一个控制台程序.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\第一个控制台程序\bin\Debug\第一个控制台程序.exe
+C:\Users\KarFive\Desktop\C#\第一个控制台程序\bin\Debug\第一个控制台程序.pdb
+C:\Users\KarFive\Desktop\C#\第一个控制台程序\obj\Debug\第一个控制台程序.exe
+C:\Users\KarFive\Desktop\C#\第一个控制台程序\obj\Debug\第一个控制台程序.pdb

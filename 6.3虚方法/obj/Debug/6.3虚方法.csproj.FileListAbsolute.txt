@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\6.3虚方法\bin\Debug\6.3虚方法.exe.config
+C:\Users\KarFive\Desktop\C#\6.3虚方法\obj\Debug\6.3虚方法.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\6.3虚方法\bin\Debug\6.3虚方法.exe
+C:\Users\KarFive\Desktop\C#\6.3虚方法\bin\Debug\6.3虚方法.pdb
+C:\Users\KarFive\Desktop\C#\6.3虚方法\obj\Debug\6.3虚方法.exe
+C:\Users\KarFive\Desktop\C#\6.3虚方法\obj\Debug\6.3虚方法.pdb

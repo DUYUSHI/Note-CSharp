@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\二维数组的声明\bin\Debug\二维数组的声明.exe.config
+C:\Users\KarFive\Desktop\C#\二维数组的声明\bin\Debug\二维数组的声明.exe
+C:\Users\KarFive\Desktop\C#\二维数组的声明\bin\Debug\二维数组的声明.pdb
+C:\Users\KarFive\Desktop\C#\二维数组的声明\obj\Debug\二维数组的声明.exe
+C:\Users\KarFive\Desktop\C#\二维数组的声明\obj\Debug\二维数组的声明.pdb

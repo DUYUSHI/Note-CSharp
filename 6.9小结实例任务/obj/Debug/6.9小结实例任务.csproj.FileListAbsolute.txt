@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\6.9小结实例任务\bin\Debug\6.9小结实例任务.exe.config
+C:\Users\KarFive\Desktop\C#\6.9小结实例任务\bin\Debug\6.9小结实例任务.exe
+C:\Users\KarFive\Desktop\C#\6.9小结实例任务\bin\Debug\6.9小结实例任务.pdb
+C:\Users\KarFive\Desktop\C#\6.9小结实例任务\obj\Debug\6.9小结实例任务.exe
+C:\Users\KarFive\Desktop\C#\6.9小结实例任务\obj\Debug\6.9小结实例任务.pdb

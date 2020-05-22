@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\二位数组的使用\bin\Debug\二位数组的使用.exe.config
+C:\Users\KarFive\Desktop\C#\二位数组的使用\bin\Debug\二位数组的使用.exe
+C:\Users\KarFive\Desktop\C#\二位数组的使用\bin\Debug\二位数组的使用.pdb
+C:\Users\KarFive\Desktop\C#\二位数组的使用\obj\Debug\二位数组的使用.exe
+C:\Users\KarFive\Desktop\C#\二位数组的使用\obj\Debug\二位数组的使用.pdb

@@ -1,0 +1,6 @@
+C:\Users\KarFive\Desktop\C#\7.9类的封装\bin\Debug\7.9类的封装.exe.config
+C:\Users\KarFive\Desktop\C#\7.9类的封装\bin\Debug\7.9类的封装.exe
+C:\Users\KarFive\Desktop\C#\7.9类的封装\bin\Debug\7.9类的封装.pdb
+C:\Users\KarFive\Desktop\C#\7.9类的封装\obj\Debug\7.9类的封装.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\7.9类的封装\obj\Debug\7.9类的封装.exe
+C:\Users\KarFive\Desktop\C#\7.9类的封装\obj\Debug\7.9类的封装.pdb

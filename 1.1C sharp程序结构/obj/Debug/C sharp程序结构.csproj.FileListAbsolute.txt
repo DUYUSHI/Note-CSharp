@@ -1,0 +1,5 @@
+C:\Users\KarFive\Desktop\C#\C sharp程序结构\bin\Debug\C sharp程序结构.exe.config
+C:\Users\KarFive\Desktop\C#\C sharp程序结构\bin\Debug\C sharp程序结构.exe
+C:\Users\KarFive\Desktop\C#\C sharp程序结构\bin\Debug\C sharp程序结构.pdb
+C:\Users\KarFive\Desktop\C#\C sharp程序结构\obj\Debug\C sharp程序结构.exe
+C:\Users\KarFive\Desktop\C#\C sharp程序结构\obj\Debug\C sharp程序结构.pdb

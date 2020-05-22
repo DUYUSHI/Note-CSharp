@@ -1,0 +1,7 @@
+C:\Users\KarFive\Desktop\C#\一维数组的声明\bin\Debug\一维数组的声明.exe.config
+C:\Users\KarFive\Desktop\C#\一维数组的声明01\bin\Debug\一维数组的声明.exe.config
+C:\Users\KarFive\Desktop\C#\一维数组的声明01\bin\Debug\一维数组的声明.exe
+C:\Users\KarFive\Desktop\C#\一维数组的声明01\bin\Debug\一维数组的声明.pdb
+C:\Users\KarFive\Desktop\C#\一维数组的声明01\obj\Debug\一维数组的声明.csprojResolveAssemblyReference.cache
+C:\Users\KarFive\Desktop\C#\一维数组的声明01\obj\Debug\一维数组的声明.exe
+C:\Users\KarFive\Desktop\C#\一维数组的声明01\obj\Debug\一维数组的声明.pdb
